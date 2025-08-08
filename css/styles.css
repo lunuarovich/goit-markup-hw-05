@@ -599,6 +599,7 @@ img {
 .but-close:focus {
     background-color: #404bbf;
     border: none;
+    fill: #ffffff;
 }
 
 .icon-close {
