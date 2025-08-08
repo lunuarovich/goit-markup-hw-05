@@ -656,7 +656,8 @@ img {
 
 .form-input:hover,
 .form-input:focus {
-    border-color: #4D5AE5;
+    border-color: #4d5ae5;
+    fill: #4d5ae5;
 }
 
 .icon-form {
@@ -670,7 +671,7 @@ img {
 
 .icon-form:hover,
 .icon-form:focus {
-    fill: #4D5AE5;
+    fill: #4d5ae5;
 }
 
 .container-form-area {
@@ -695,7 +696,7 @@ img {
 
 .textarea:hover,
 .textarea:focus {
-    border-color: #4D5AE5;
+    border-color: #4d5ae5;
 }
 
 .container-checkbox {
@@ -745,4 +746,6 @@ input[type="checkbox"]:checked + span {
     background-color: #4d5ae5;
     border: none;
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+    margin: 0 auto;
+    border-radius: 4px;
 }
