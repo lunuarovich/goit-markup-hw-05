@@ -582,4 +582,5 @@ img {
     top: 50%;
     transform: translateY(-50%);
     left: 16px;
+    fill: #2e2f42;
 }
